@@ -88,8 +88,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 
 ### Youtube Videos and Related Resources
 
-[Arduino Neural Network Robot - Complete How-To! by SeanHodgins](https://github.com/IdleHandsProject/makennbot.git)
-[Robot AI Demo - NVidia Deep Learning, ROS Navigation, Raspberry Pi by James Bruton](https://www.youtube.com/watch?v=U0--ZJfmUEM&ab_channel=JamesBruton)
+- [Arduino Neural Network Robot - Complete How-To! by SeanHodgins](https://github.com/IdleHandsProject/makennbot.git)
+- [Robot AI Demo - NVidia Deep Learning, ROS Navigation, Raspberry Pi by James Bruton](https://www.youtube.com/watch?v=U0--ZJfmUEM&ab_channel=JamesBruton)
 
 
 ## Misc.
