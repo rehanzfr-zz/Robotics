@@ -89,6 +89,10 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
 - [My public ROSJects](https://rds.theconstructsim.com/r/mchung/)
 
+## Robtoics and Machine Learning
+
+[Arduino Neural Network Robot - Complete How-To! by SeanHodgins](https://github.com/IdleHandsProject/makennbot.git)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
